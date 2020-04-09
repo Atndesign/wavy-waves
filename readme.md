@@ -10,7 +10,7 @@ Wavy waves is a random javascript experience, no many use for this but it's stil
 
 ## How to use it ?
 
-Go to this [website]("http://atndesign.github.io/wavy-waves") (yup it's all you need to do)
+Go to this [website](http://atndesign.github.io/wavy-waves) (yup it's all you need to do)
 
 ## Screenshot
 
