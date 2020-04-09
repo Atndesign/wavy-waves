@@ -1,6 +1,6 @@
 # Wavy waves
 
-Wavy waves is a random javascript experience, no many use for this but it's still is interesting
+Wavy waves is a random javascript experience, no many use for this but it still is interesting
 
 ## Technologies used:
 
