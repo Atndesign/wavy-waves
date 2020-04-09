@@ -1,7 +1,7 @@
-const containerWidth = 800;
-const containerHeight = 800;
-const cubePerRow = 25;
-const cubePerCol = 25;
+const containerWidth = 600;
+const containerHeight = 600;
+const cubePerRow = 15;
+const cubePerCol = 15;
 const cubeSpace = 10;
 const cubeSize = containerHeight / cubePerCol - cubeSpace * 2;
 let wavesArr = [];
